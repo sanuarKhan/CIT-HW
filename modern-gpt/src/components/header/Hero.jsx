@@ -7,7 +7,7 @@ export default function Hero() {
         <h2 className="bg-gradient-to-r from-indigo-500 via-purple-500 to-rose-300 text-6xl bg-clip-text text-transparent leading-snug">
           Let’s Build Something amazing with GPT-3 OpenAI
         </h2>
-        <p className="m-4 ml-0 text-cyan-800">
+        <p className="m-4 ml-0 text-primary-text">
           Yet bed any for travelling assistance indulgence unpleasing. Not
           thoughts all exercise blessing. Indulgence way everything joy
           alteration boisterous the attachment. Party we years to order allow

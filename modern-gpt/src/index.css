@@ -9,3 +9,15 @@ body {
 .container {
   width: 80%;
 }
+.what-gpt {
+  position: relative;
+}
+.what-gpt::before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 30px;
+  height: 5px;
+  background: pink;
+  margin-top: -15px;
+}
