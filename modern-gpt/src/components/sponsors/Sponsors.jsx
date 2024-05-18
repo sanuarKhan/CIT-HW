@@ -8,10 +8,10 @@ const data = [
 
 export default function Sponsors() {
   return (
-    <div className="flex container mx-auto p-14 justify-center">
+    <div className="flex flex-col lg:flex-row container mx-auto p-14 justify-center">
       {data.map((item, index) => (
         <img
-          className="mr-10"
+          className="lg:mr-10  lg:m-0 m-12"
           key={index}
           src={item.img}
           alt={`Image ${index + 1}`}

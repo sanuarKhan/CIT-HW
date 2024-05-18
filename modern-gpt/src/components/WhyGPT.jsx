@@ -2,13 +2,13 @@ import Divider from "./Divider";
 
 export default function WhyGPT() {
   return (
-    <div className="flex pt-24 mb-32 container mx-auto justify-around">
-      <div className="w-1/3">
-        <h2 className="mb-12 text-2xl w-72 bg-gradient-to-r from-fuchsia-400 via-fuchsia-300 to-yellow-600 bg-clip-text text-transparent">
+    <div className="lg:flex lg:pt-24 lg:mb-32 container mx-auto justify-around">
+      <div className="lg:w-1/3">
+        <h2 className="mb-12 text-2xl lg:w-72 bg-gradient-to-r from-fuchsia-400 via-fuchsia-300 to-yellow-600 bg-clip-text text-transparent">
           The Future is Now and You Just Need To Realize It. Step into Future
           Today & Make it Happen.
         </h2>
-        <p className=" text-orange-500 mt-10">
+        <p className=" text-orange-500 mt-10 mb-10">
           Request Early Access to Get Started
         </p>
       </div>
@@ -32,7 +32,7 @@ export default function WhyGPT() {
           <h2 className="text-white w-40 mb-10">Really boy law county</h2>
         </div>
       </div>
-      <div className="w-1/3">
+      <div className="lg:w-1/3">
         <p className="mb-10 text-primary-text">
           From they fine john he give of rich he. They age and draw mrs like.
           Improving end distrusts may instantly was household applauded.
